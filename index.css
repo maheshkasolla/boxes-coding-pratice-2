@@ -1,0 +1,33 @@
+/* Write your code here. */
+.bg_container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+.container1 {
+  background-color: #fbbf24;
+  height: 50px;
+  width: 60px;
+}
+.container2 {
+  background-color: #38bdf8;
+  height: 70px;
+  width: 100px;
+}
+.container3 {
+  background-color: #ec4899;
+  height: 100px;
+  width: 130px;
+}
+.heading {
+  color: black;
+  font-size: 35px;
+  text-align: center;
+}
+.paragraph {
+  color: #ffffff;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
